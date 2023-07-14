@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/stationname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:text="Otec FM"
+        android:textColor="@color/colorAccent"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/stationname">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/icon"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            app:riv_corner_radius="30dip"
+            app:riv_mutate_background="true"
+            app:riv_oval="true"
+            tools:background="@drawable/otec_fm" />
+
+        <LinearLayout
+            android:visibility="gone"
+            android:id="@+id/frequencyLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/icon"
+            android:layout_centerHorizontal="true">
+
+            <TextView
+                android:id="@+id/frequency"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/circle"
+                android:gravity="center"
+                android:text="102.9"
+                android:textColor="#FFDAA520"
+                android:textSize="30sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="8dp"
+                android:layout_marginBottom="8dp"
+                android:layout_toRightOf="@id/frequency"
+                android:text="MHz"
+                android:textColor="@color/colorAccent"
+                android:textSize="32sp" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <com.service.provision.util.carousel.ViewPagerCarouselView
+        android:id="@+id/carouselView"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_above="@id/frame"
+        android:layout_below="@id/header" />
+
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        android:textSize="40dp">
+
+        <afriwan.ahda.AudioStreaming
+            android:id="@+id/playCustomFonts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="30dp"
+            android:textColor="@android:color/white"
+            android:textSize="40dp"
+            app:loadingText="@string/customLoadingIcon"
+            app:playText="@string/customPlayIcon"
+            app:stopText="@string/customStopIcon"
+            app:useIcons="true" />
+    </FrameLayout>
+
+</RelativeLayout>
