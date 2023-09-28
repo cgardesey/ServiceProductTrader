@@ -18,9 +18,6 @@ ServiceProductTrader is an marketplace android app that enables customers and pr
 2. **Order Fulfillment:** Receive and process customer orders efficiently, and updating order status.
 3. **Chat:** Chat with your customers using the in-app messaging feature
 
-## Getting Started
-
-
 
 ## Screenshots
 <img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/3adf4ca4-c3df-4bc7-a0bc-ba7b1e236b74" width="250" height= 530 alt="Screenshot 1">
@@ -31,8 +28,15 @@ ServiceProductTrader is an marketplace android app that enables customers and pr
 <img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/75b93931-0a04-4626-b4ab-f42ef6aaea17" width="250" height= 530 alt="Screenshot 6">
 <img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/a32cdca5-e0b7-4c6e-a1c2-a6e4297f1c7d" width="250" height= 530 alt="Screenshot 7">
 <img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/ed2729b7-a2d1-4206-8ef7-c58ae730fea3" width="250" height= 530 alt="Screenshot 8">
-<img src="" width="250" alt="Screenshot 8">
-<img src="" width="250" alt="Screenshot 8">
+<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/c9bba4d3-e83c-4129-9bb9-665596bc4775" width="250" height= 530 alt="Screenshot 9">
+<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/00114c06-1da8-475b-8335-a4fbfcf25dcc" width="250" height= 530 alt="Screenshot 10">
+<img src="" width="250" height= 530 alt="Screenshot 11">
+<img src="" width="250" height= 530 alt="Screenshot 12">
+<img src="" width="250" height= 530 alt="Screenshot 13">
+<img src="" width="250" height= 530 alt="Screenshot 14">
+
+
+## Getting Started
 
 To get started with the project, follow the instructions below:
 
