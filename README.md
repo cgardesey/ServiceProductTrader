@@ -20,6 +20,20 @@ ServiceProductTrader is an marketplace android app that enables customers and pr
 
 ## Getting Started
 
+
+
+## Screenshots
+<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/3adf4ca4-c3df-4bc7-a0bc-ba7b1e236b74" width="250" alt="Screenshot 1">
+<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/ccf5a711-d5a9-4518-a097-d3b33a435234" width="250" alt="Screenshot 2">
+<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/060fbe83-1c92-4e6c-939e-b13316495372" width="250" alt="Screenshot 3">
+<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/34611aff-8f0b-4fe0-8518-ba5305e3a38c" width="250" alt="Screenshot 4">
+<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/96cef7ab-4f4d-4010-a61d-2be84dd10177" width="250" alt="Screenshot 5">
+<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/75b93931-0a04-4626-b4ab-f42ef6aaea17" width="250" alt="Screenshot 6">
+<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/a32cdca5-e0b7-4c6e-a1c2-a6e4297f1c7d" width="250" alt="Screenshot 7">
+<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/ed2729b7-a2d1-4206-8ef7-c58ae730fea3" width="250" alt="Screenshot 8">
+<img src="" width="250" alt="Screenshot 8">
+<img src="" width="250" alt="Screenshot 8">
+
 To get started with the project, follow the instructions below:
 
 1. Clone this repository to your local machine using Git or download the ZIP file.
