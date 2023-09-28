@@ -62,7 +62,7 @@ You may need to update these values in the `build.gradle` file based on your pro
 - Glide (for image loading)
 - Realm (for local data storage)
 
-If you're looking to integrate with the backend api, make sure to check out the  [backend repo](https://github.com/cgardesey/market_app_backend) for detailed instructions.
+If you're looking to integrate with the backend api, make sure to check out my  [backend repo](https://github.com/cgardesey/market_app_backend) for detailed instructions.
 
 ## License
 
