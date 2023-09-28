@@ -23,7 +23,7 @@ ServiceProductTrader is an marketplace android app that enables customers and pr
 
 
 ## Screenshots
-<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/3adf4ca4-c3df-4bc7-a0bc-ba7b1e236b74" width="250" alt="Screenshot 1">
+<img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/3adf4ca4-c3df-4bc7-a0bc-ba7b1e236b74" width="250" height= 600 alt="Screenshot 1">
 <img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/ccf5a711-d5a9-4518-a097-d3b33a435234" width="250" alt="Screenshot 2">
 <img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/060fbe83-1c92-4e6c-939e-b13316495372" width="250" alt="Screenshot 3">
 <img src="https://github.com/cgardesey/ServiceProductTrader/assets/10109354/34611aff-8f0b-4fe0-8518-ba5305e3a38c" width="250" alt="Screenshot 4">
