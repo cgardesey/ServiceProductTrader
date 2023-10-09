@@ -1,6 +1,6 @@
-# ServiceProductTrader
+# SuperFix Android App
 
-ServiceProductTrader is an marketplace android app that enables customers and providers to trade products and services. Whether you're a customer looking for unique offerings or a provider seeking new business opportunities, ServiceProductTrader provides a platform to connect and transact securely.
+This is an android app that enables customers and providers to trade products and services. Whether you're a customer looking for unique offerings or a provider seeking new business opportunities, SuperFix App provides a platform to connect and transact securely.
 
 ## Features
 
@@ -62,7 +62,7 @@ You may need to update these values in the `build.gradle` file based on your pro
 - Glide (for image loading)
 - Realm (for local data storage)
 
-If you're looking to integrate with the backend api, make sure to check out my  [backend repo](https://github.com/cgardesey/market_app_backend) for detailed instructions.
+If you're looking to integrate with the backend api, make sure to check out my  [backend repo](https://github.com/cgardesey/superfix_backend) for detailed instructions.
 
 ## License
 
