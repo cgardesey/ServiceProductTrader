@@ -66,4 +66,4 @@ If you're looking to integrate with the backend api, make sure to check out my  
 
 ## License
 
-ProductTrader project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
